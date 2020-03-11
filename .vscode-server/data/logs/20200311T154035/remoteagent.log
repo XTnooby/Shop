@@ -1,0 +1,24 @@
+[2020-03-11 15:40:35.480] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-03-11 15:40:35.480] [remoteagent] [info] Extension host agent started.
+[2020-03-11 15:40:35.739] [remoteagent] [info] [127.0.0.1][a05b3eeb][ManagementConnection] New connection established.
+[2020-03-11 15:40:35.743] [remoteagent] [info] [127.0.0.1][4065ec24][ExtensionHostConnection] New connection established.
+[2020-03-11 15:40:35.995] [remoteagent] [info] [127.0.0.1][4065ec24][ExtensionHostConnection] <27746> Launched Extension Host Process.
+[2020-03-11 15:40:40.296] [remoteagent] [info] [127.0.0.1][a05b3eeb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-03-11 15:40:41.344] [remoteagent] [info] [127.0.0.1][4065ec24][ExtensionHostConnection] <27746> Extension Host Process exited with code: 0, signal: null.
+[2020-03-11 15:40:41.345] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-03-11 15:40:43.413] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-03-11 15:40:43.413] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-03-11 15:40:43.473] [remoteagent] [info] [127.0.0.1][d115d8e7][ManagementConnection] New connection established.
+[2020-03-11 15:40:43.474] [remoteagent] [info] [127.0.0.1][57954655][ExtensionHostConnection] New connection established.
+[2020-03-11 15:40:43.480] [remoteagent] [info] [127.0.0.1][57954655][ExtensionHostConnection] <27824> Launched Extension Host Process.
+[2020-03-11 15:40:50.468] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-03-11 15:45:43.416] [remoteagent] [info] New EH opened, aborting shutdown

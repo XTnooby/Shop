@@ -1,0 +1,17 @@
+[2020-03-11 12:12:56.926] [exthost] [info] extension host started
+[2020-03-11 12:12:57.112] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-11 12:12:57.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/debug-auto-launch/dist/extension
+[2020-03-11 12:12:57.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-11 12:12:57.138] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/emmet/dist/extension
+[2020-03-11 12:12:57.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-11 12:12:57.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/git/dist/main
+[2020-03-11 12:12:57.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-11 12:12:57.468] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/merge-conflict/dist/extension
+[2020-03-11 12:12:57.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-11 12:12:57.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/search-result/dist/extension.js
+[2020-03-11 12:12:57.492] [exthost] [info] eager extensions activated
+[2020-03-11 12:14:27.717] [exthost] [info] ExtensionService#_doActivateExtension mblode.twig-language-2 {"startup":false,"extensionId":{"value":"mblode.twig-language-2","_lower":"mblode.twig-language-2"},"activationEvent":"onLanguage:twig"}
+[2020-03-11 12:14:27.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/extensions/mblode.twig-language-2-0.9.0/extension/index
+[2020-03-11 12:14:27.806] [exthost] [info] Extension 'mblode.twig-language-2' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-03-11 12:20:51.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-03-11 12:20:51.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/www/html/symfony4-lycee-4135/.vscode-server/bin/26076a4de974ead31f97692a0d32f90d735645c0/extensions/php-language-features/dist/phpMain

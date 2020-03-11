@@ -1,0 +1,41 @@
+[2020-01-29 12:14:46.609] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-01-29 12:14:46.609] [remoteagent] [info] Extension host agent started.
+[2020-01-29 12:14:46.870] [remoteagent] [info] [127.0.0.1][00117c05][ManagementConnection] New connection established.
+[2020-01-29 12:14:46.874] [remoteagent] [info] [127.0.0.1][e03b91c4][ExtensionHostConnection] New connection established.
+[2020-01-29 12:14:47.094] [remoteagent] [info] [127.0.0.1][e03b91c4][ExtensionHostConnection] <23281> Launched Extension Host Process.
+[2020-01-29 12:14:52.353] [remoteagent] [info] [127.0.0.1][00117c05][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-01-29 12:14:53.389] [remoteagent] [info] [127.0.0.1][e03b91c4][ExtensionHostConnection] <23281> Extension Host Process exited with code: 0, signal: null.
+[2020-01-29 12:14:53.390] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-01-29 12:14:56.645] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-01-29 12:14:56.645] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-01-29 12:14:56.694] [remoteagent] [info] [127.0.0.1][c1c8f441][ManagementConnection] New connection established.
+[2020-01-29 12:14:56.695] [remoteagent] [info] [127.0.0.1][a3308cb7][ExtensionHostConnection] New connection established.
+[2020-01-29 12:14:56.700] [remoteagent] [info] [127.0.0.1][a3308cb7][ExtensionHostConnection] <23359> Launched Extension Host Process.
+[2020-01-29 12:15:04.598] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-01-29 12:19:56.648] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-01-29 13:43:08.618] [remoteagent] [info] [127.0.0.1][c1c8f441][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-01-29 15:38:50.685] [remoteagent] [info] [127.0.0.1][c1c8f441][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-01-29 15:38:50.687] [remoteagent] [info] [127.0.0.1][146a3275][ManagementConnection] New connection established.
+[2020-01-29 15:38:50.688] [remoteagent] [info] [127.0.0.1][fe6f8fe1][ExtensionHostConnection] New connection established.
+[2020-01-29 15:38:50.693] [remoteagent] [info] [127.0.0.1][fe6f8fe1][ExtensionHostConnection] <23968> Launched Extension Host Process.
+[2020-01-29 15:39:05.963] [remoteagent] [info] [127.0.0.1][146a3275][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-01-29 15:39:06.998] [remoteagent] [info] [127.0.0.1][fe6f8fe1][ExtensionHostConnection] <23968> Extension Host Process exited with code: 0, signal: null.
+[2020-01-29 15:39:10.800] [remoteagent] [info] [127.0.0.1][d92e6c0f][ManagementConnection] New connection established.
+[2020-01-29 15:39:10.801] [remoteagent] [info] [127.0.0.1][a302a94b][ExtensionHostConnection] New connection established.
+[2020-01-29 15:39:10.806] [remoteagent] [info] [127.0.0.1][a302a94b][ExtensionHostConnection] <24097> Launched Extension Host Process.
+[2020-01-29 15:39:18.789] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-01-29 15:43:50.687] [remoteagent] [info] [127.0.0.1][c1c8f441][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-01-29 15:43:51.736] [remoteagent] [info] [127.0.0.1][a3308cb7][ExtensionHostConnection] <23359> Extension Host Process exited with code: 0, signal: null.
+[2020-01-29 16:45:28.496] [remoteagent] [info] [127.0.0.1][d92e6c0f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-01-29 16:45:29.552] [remoteagent] [info] [127.0.0.1][a302a94b][ExtensionHostConnection] <24097> Extension Host Process exited with code: 0, signal: null.
+[2020-01-29 16:45:29.552] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-01-29 16:50:29.639] [remoteagent] [info] Last EH closed, shutting down

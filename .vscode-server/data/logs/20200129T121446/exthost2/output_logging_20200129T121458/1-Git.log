@@ -1,0 +1,78 @@
+Looking for git in: git
+Using git 2.11.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /var/www/html/symfony4-lycee-4135
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :public/Shop/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :public/projet1/bin/console
+> git show :public/Shop/index.html
+> git show :public/Shop/connexion.html
+> git show :public/Shop/config
+> git show :public/Shop/compte.html
+> git check-ignore -v -z --stdin
+> git show :public/Shop/compte.html
+> git show :public/Shop/compte.html
+> git show :public/Shop/compte.html
+> git show :public/Shop/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :public/projet1/bin/phpunit
+> git show :public/projet1/tests/.gitignore
+> git show :public/projet1/vendor/bin/doctrine
+> git show :public/projet1/vendor/bin/doctrine-dbal
+> git show :public/projet1/vendor/bin/doctrine-migrations
+> git show :public/projet1/vendor/bin/php-parse
+> git show :public/projet1/vendor/bin/simple-phpunit
+> git show :public/projet1/vendor/bin/var-dump-server
+> git show :public/projet1/vendor/bin/simple-phpunit
+> git show :public/projet1/vendor/bin/var-dump-server
+> git show :public/projet1/vendor/bin/simple-phpunit
+> git show :public/projet1/vendor/bin/php-parse
+> git show :public/projet1/vendor/bin/doctrine-migrations
+> git show :public/projet1/vendor/bin/doctrine-dbal
+> git show :public/projet1/vendor/bin/doctrine
+> git show :public/Shop/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :public/projet1/.env
+> git show :public/Shop/public
+> git show :public/Shop/index.html

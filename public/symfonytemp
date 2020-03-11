@@ -1,0 +1,3 @@
+cd /var/www/html/symfony4-lycee-4135/public/ 
+ composer create-project symfony/website-skeleton projet1 4.4.* 
+ composer require --dev symfony/profiler-pack

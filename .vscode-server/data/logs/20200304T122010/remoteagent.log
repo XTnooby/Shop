@@ -1,0 +1,44 @@
+[2020-03-04 12:20:10.764] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-03-04 12:20:10.765] [remoteagent] [info] Extension host agent started.
+[2020-03-04 12:20:11.013] [remoteagent] [info] [127.0.0.1][841a534d][ManagementConnection] New connection established.
+[2020-03-04 12:20:11.017] [remoteagent] [info] [127.0.0.1][0a8ce9e2][ExtensionHostConnection] New connection established.
+[2020-03-04 12:20:11.242] [remoteagent] [info] [127.0.0.1][0a8ce9e2][ExtensionHostConnection] <3648> Launched Extension Host Process.
+[2020-03-04 12:20:17.846] [remoteagent] [info] [127.0.0.1][841a534d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-03-04 12:20:18.865] [remoteagent] [info] [127.0.0.1][0a8ce9e2][ExtensionHostConnection] <3648> Extension Host Process exited with code: 0, signal: null.
+[2020-03-04 12:20:18.866] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-03-04 12:20:21.140] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-03-04 12:20:21.140] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-03-04 12:20:21.198] [remoteagent] [info] [127.0.0.1][80668be5][ExtensionHostConnection] New connection established.
+[2020-03-04 12:20:21.203] [remoteagent] [info] [127.0.0.1][80668be5][ExtensionHostConnection] <3727> Launched Extension Host Process.
+[2020-03-04 12:20:21.238] [remoteagent] [info] [127.0.0.1][6d86ddd6][ManagementConnection] New connection established.
+[2020-03-04 12:20:28.263] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-03-04 12:25:21.143] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-03-04 13:35:19.170] [remoteagent] [info] Installing extension: mblode.twig-language-2
+[2020-03-04 13:35:20.970] [remoteagent] [info] Downloaded extension: mblode.twig-language-2 /tmp/a2b6caab-dc65-44f6-9e6c-8f9544d270fe
+[2020-03-04 13:35:25.967] [remoteagent] [info] Extracted extension to /var/www/html/symfony4-lycee-4135/.vscode-server/extensions/.mblode.twig-language-2-0.9.0: mblode.twig-language-2
+[2020-03-04 13:35:25.968] [remoteagent] [info] Renamed to /var/www/html/symfony4-lycee-4135/.vscode-server/extensions/mblode.twig-language-2-0.9.0
+[2020-03-04 13:35:25.973] [remoteagent] [info] Installation completed. mblode.twig-language-2
+[2020-03-04 13:35:25.999] [remoteagent] [info] Extensions installed successfully: mblode.twig-language-2
+[2020-03-04 13:35:27.356] [remoteagent] [info] [127.0.0.1][6d86ddd6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-03-04 13:35:28.396] [remoteagent] [info] [127.0.0.1][80668be5][ExtensionHostConnection] <3727> Extension Host Process exited with code: 0, signal: null.
+[2020-03-04 13:35:28.397] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-03-04 13:36:12.983] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-03-04 13:36:12.984] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-03-04 13:36:13.043] [remoteagent] [info] [127.0.0.1][b12a6591][ManagementConnection] New connection established.
+[2020-03-04 13:36:13.046] [remoteagent] [info] [127.0.0.1][b48e6314][ExtensionHostConnection] New connection established.
+[2020-03-04 13:36:13.058] [remoteagent] [info] [127.0.0.1][b48e6314][ExtensionHostConnection] <4123> Launched Extension Host Process.
+[2020-03-04 13:36:16.749] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-03-04 13:41:12.984] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-03-04 15:21:39.314] [remoteagent] [info] [127.0.0.1][b12a6591][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-03-04 15:21:40.368] [remoteagent] [info] [127.0.0.1][b48e6314][ExtensionHostConnection] <4123> Extension Host Process exited with code: 0, signal: null.
+[2020-03-04 15:21:40.368] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-03-04 15:26:40.435] [remoteagent] [info] Last EH closed, shutting down

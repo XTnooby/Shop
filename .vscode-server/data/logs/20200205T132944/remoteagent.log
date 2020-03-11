@@ -1,0 +1,29 @@
+[2020-02-05 13:29:44.769] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-02-05 13:29:44.769] [remoteagent] [info] Extension host agent started.
+[2020-02-05 13:29:45.014] [remoteagent] [info] [127.0.0.1][f3d805d3][ManagementConnection] New connection established.
+[2020-02-05 13:29:45.018] [remoteagent] [info] [127.0.0.1][be42c14a][ExtensionHostConnection] New connection established.
+[2020-02-05 13:29:45.250] [remoteagent] [info] [127.0.0.1][be42c14a][ExtensionHostConnection] <12929> Launched Extension Host Process.
+[2020-02-05 13:29:58.794] [remoteagent] [info] [127.0.0.1][f3d805d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-02-05 13:29:59.815] [remoteagent] [info] [127.0.0.1][be42c14a][ExtensionHostConnection] <12929> Extension Host Process exited with code: 0, signal: null.
+[2020-02-05 13:29:59.816] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-02-05 13:30:11.456] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-02-05 13:30:11.456] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-02-05 13:30:11.514] [remoteagent] [info] [127.0.0.1][85daa238][ManagementConnection] New connection established.
+[2020-02-05 13:30:11.516] [remoteagent] [info] [127.0.0.1][dee3b6ae][ExtensionHostConnection] New connection established.
+[2020-02-05 13:30:11.520] [remoteagent] [info] [127.0.0.1][dee3b6ae][ExtensionHostConnection] <13008> Launched Extension Host Process.
+[2020-02-05 13:30:19.813] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-02-05 13:35:11.457] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-02-05 15:32:44.744] [remoteagent] [info] [127.0.0.1][85daa238][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-02-05 18:32:37.712] [remoteagent] [info] [127.0.0.1][dee3b6ae][ExtensionHostConnection] <13008> Extension Host Process exited with code: 0, signal: null.
+[2020-02-05 18:32:37.712] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-02-05 18:32:44.745] [remoteagent] [info] [127.0.0.1][85daa238][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-02-05 18:37:37.811] [remoteagent] [info] Last EH closed, shutting down

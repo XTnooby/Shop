@@ -1,0 +1,148 @@
+Looking for git in: git
+Using git 2.11.0 from git
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /var/www/html/symfony4-lycee-4135
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :public/Shop/config/routes.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git check-ignore -v -z --stdin
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/config/routes.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/public/index.php
+> git show :public/Shop/src/controlleur/mentionsControleur.php
+> git check-ignore -v -z --stdin
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/mentionsControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/config/routes.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/proposControleur
+> git check-ignore -v -z --stdin
+> git show :public/Shop/src/controlleur/proposControleur.php
+> git check-ignore -v -z --stdin
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/proposControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/proposControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/proposControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/config/routes.php
+> git show :public/Shop/public/index.html
+> git show :public/Shop/config/routes.php
+> git show :public/Shop/public/index.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/public/index.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/public/index.php
+> git show :public/Shop/src/controlleur/mentionsControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/contactControleur.php
+> git show :public/Shop/src/controlleur/accueilControleur.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/connexion.html
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/connexion.html
+> git show :public/Shop/public/index.html
+> git check-ignore -v -z --stdin
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/pageproduit.html
+> git show :public/Shop/public/inscription.html
+> git show :public/Shop/public/inscription.css
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/connexion.html
+> git show :public/Shop/public/compte.html
+> git show :public/Shop/public/uw.css
+> git check-ignore -v -z --stdin
+> git show :public/vendor/index.html
+> git show :public/Shop/public/index.html
+> git show :public/vendor/index.html
+> git show :public/Shop/public/uw.css
+> git show :public/vendor/index.html
+> git show :public/Shop/public/index.html
+> git show :public/vendor/index.html
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/inscription.html
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/bases.html.twig
+> git check-ignore -v -z --stdin
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/compte.html
+> git show :public/Shop/public/compte.html
+> git show :public/Shop/public/bases.html.twig
+> git show :public/Shop/public/compte.html
+> git show :public/Shop/public/inscription.html
+> git show :public/vendor/index.html
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/index.php
+> git show :public/Shop/src/controlleur/proposControleur.php
+> git show :public/Shop/public/bases.html.twig
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/public/index.php
+> git show :public/Shop/public/bases.html.twig
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/bases.html.twig
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/bases.html.twig
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/bases.html.twig
+> git show :public/Shop/public/index.php
+> git show :public/Shop/src/controlleur/_controlleurs.php
+> git show :public/Shop/public/index.html
+> git show :public/Shop/public/index.php
+> git show :public/Shop/public/bases.html.twig
